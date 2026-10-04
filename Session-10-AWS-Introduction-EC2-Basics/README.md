@@ -35,6 +35,17 @@
 
 ---
 
+## 🧰 Pre-Session Prerequisites (completed 4 Oct 2026)
+
+☑️ Signed in to AWS console, free tier active
+☑️ Default region set to Mumbai (ap-south-1)
+☑️ MFA enabled on root account
+☑️ Billing alert set at ₹100
+☑️ EC2 key pair (.pem) created
+☑️ MobaXterm and RDP client working, fork synced
+
+---
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-019: Launch EC2 Windows Server 2025 Instance and connect via RDP — screenshot the desktop
