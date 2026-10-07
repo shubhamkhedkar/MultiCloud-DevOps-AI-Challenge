@@ -46,7 +46,7 @@ You just joined a company. Day 1 task involves EC2 Scalability & AMI. How do you
 P — Problem  : Define exactly what the issue or goal is
 A — Assess   : What tools knowledge and resources do you have available?
 C — Cause/Plan: Identify root cause or build your execution plan
-E — Execute  : Implement fix or solution then verify and document
+E — Execute  : Implement fix or solution then verify and document 
 ```
 
 **Step-by-Step Answer:**
