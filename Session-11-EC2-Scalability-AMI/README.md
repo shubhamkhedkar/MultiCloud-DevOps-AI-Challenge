@@ -83,7 +83,7 @@ Due      : Before Session 12
 
 ---
 
-## 🛠️ Tools & Commands Reference
+## 🛠️ Tools & Commands Reference 
 
 ```bash
 # Session 11: EC2 Scalability & AMI
