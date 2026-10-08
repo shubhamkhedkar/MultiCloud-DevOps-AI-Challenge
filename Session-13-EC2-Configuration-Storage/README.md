@@ -47,9 +47,9 @@ Due      : Before Session 14
 ```
 
 **Steps:**
-- Follow the live session guidance
-- Document your approach and commands used
-- 📸 Take a screenshot of the result
+✅ Follow the live session guidance
+✅ Document your approach and commands used
+✅ 📸 Take a screenshot of the result
 
 ---
 
@@ -75,11 +75,11 @@ Due      : Before Session 14
 
 ## 💡 Key Learnings from Session 13
 
-> **1.** EBS is Elastic Block Store which is persistent disk for EC2 like a USB drive in cloud
-> **2.** Snapshots are incremental — only changed blocks are stored after the first snapshot
-> **3.** Elastic IP is a static public IP that costs money when not attached to running instance
-> **4.** Security Groups are stateful — if you allow inbound traffic return traffic is automatic
-> **5.** You can increase EBS volume size but cannot decrease it — only grow never shrink
+> **1.** EBS is Elastic Block Store which is persistent disk for EC2 like a USB drive in cloud ✅
+> **2.** Snapshots are incremental — only changed blocks are stored after the first snapshot ✅
+> **3.** Elastic IP is a static public IP that costs money when not attached to running instance✅
+> **4.** Security Groups are stateful — if you allow inbound traffic return traffic is automatic ✅
+> **5.** You can increase EBS volume size but cannot decrease it — only grow never shrink ✅
 
 ---
 
