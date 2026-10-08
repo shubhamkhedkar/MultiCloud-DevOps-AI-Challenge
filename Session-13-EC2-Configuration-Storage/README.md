@@ -26,12 +26,12 @@
 
 ## 🎯 Topics Covered in Session 13
 
-- AMI Configuration — instance types families and sizes
-- Block Storage: EBS Volume types gp3 io1 sc1 st1
-- EBS Snapshots: incremental point-in-time copies
-- Security Groups deep dive — inbound outbound rules
-- IP Addressing: Public Private and Elastic IP
-- Root vs Data Volumes — backup and restore strategies
+- AMI Configuration — instance types families and sizes ✅
+- Block Storage: EBS Volume types gp3 io1 sc1 st1 ✅
+- EBS Snapshots: incremental point-in-time copies ✅
+- Security Groups deep dive — inbound outbound rules ✅
+- IP Addressing: Public Private and Elastic IP ✅
+- Root vs Data Volumes — backup and restore strategies ✅
 
 ---
 
@@ -63,9 +63,9 @@ Due      : Before Session 14
 ```
 
 **Steps:**
-- Follow the live session guidance
-- Document your approach and commands used
-- 📸 Take a screenshot of the result
+- Follow the live session guidance ✅
+- Document your approach and commands used ✅
+- 📸 Take a screenshot of the result ✅
 
 ---
 
