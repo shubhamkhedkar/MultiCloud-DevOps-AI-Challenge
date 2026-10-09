@@ -248,14 +248,14 @@ http://www.clouddevopshub.com
 ## 🏆 Session Completion Checklist
 
 ```
-☐ Attended live session at 8:00 AM IST
-☐ Task-029 completed with screenshot
-☐ Task-030 completed with screenshot
-☐ LinkedIn post published (choose one of 4 styles above)
-☐ Tagged Vikas Ratnawat & CloudDevOpsHub Community
-☐ Hashtags used: #MultiCloudDevOpswithAI #CloudDevOpsHub #55SessionsChallenge
-☐ Interview Q&A file reviewed: ./Interview-QnA.md
-☐ Scenarios file reviewed: ./Scenarios.md
+☑️ Attended live session at 8:00 AM IST
+☑️ Task-029 completed with screenshot
+☑️ Task-030 completed with screenshot
+☑️ LinkedIn post published (choose one of 4 styles above)
+☑️ Tagged Vikas Ratnawat & CloudDevOpsHub Community
+☑️ Hashtags used: #MultiCloudDevOpswithAI #CloudDevOpsHub #55SessionsChallenge
+☑️ Interview Q&A file reviewed: ./Interview-QnA.md
+☑️ Scenarios file reviewed: ./Scenarios.md
 ```
 
 ---
