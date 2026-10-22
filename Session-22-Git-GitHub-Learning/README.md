@@ -35,6 +35,17 @@
 
 ---
 
+## 🧰 Pre-Session Prerequisites (completed 22 Oct 2026)
+
+☑️ Lambda image-resize practical done with Terraform, then terraform destroy
+☑️ 2-minute spoken project summary posted in WhatsApp group
+☑️ Git installed and configured (git --version, user.name, user.email)
+☑️ GitHub push access ready
+☑️ Revised version control basics (working tree, staging, repo, clone vs fork)
+☑️ Fork synced
+
+---
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-043: Clone a public GitHub repo using git clone and git fork — push a small change and verify
