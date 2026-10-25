@@ -46,6 +46,15 @@
 
 ---
 
+## 🧰 Pre-Session Prerequisites (for 26 Oct 2026 class)
+
+- ☑️ Git installed (`git --version` works), `user.name` and `user.email` configured
+- ☑️ Signed in to GitHub with a working push method (SSH key or personal access token)
+- ☑️ Revised version control basics: fork vs clone, working tree, staging area, repository
+- ☑️ Day-12 homework: Lambda image-resizing Terraform practical done, `terraform destroy` run, 2-minute summary posted in Batch-45 WhatsApp group
+- ☑️ AWS cleanup: Billing console and ap-south-1 checked, nothing left running (EC2, NAT gateway, RDS, Lambda stacks)
+- ☑️ Fork `shubhamkhedkar/MultiCloud-DevOps-AI-Challenge` synced with upstream
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-043: Clone a public GitHub repo using git clone and git fork — push a small change and verify
