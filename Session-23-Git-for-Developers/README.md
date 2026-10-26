@@ -35,6 +35,15 @@
 
 ---
 
+## 🧰 Pre-Session Prerequisites (completed 26 Oct 2026)
+
+- ☑️ Git Bash installed on personal laptop, `user.name`/`user.email` set via `git config --global` (verified with `git config --global --list`)
+- ☑️ First push from laptop to GitHub works (`git init`, `add`, `commit`, `branch -M main`, `remote add origin`, `push`)
+- ☑️ GitHub profile updated with real photo, name and bio; Day-1 recap posted in WhatsApp group
+- ☑️ VS Code installed
+- ☑️ Revised staging, commits, clone vs fork; read up on branches, merge vs rebase, `git stash`; reviewed AWS and Linux interview Q&A on the LMS
+- ☑️ Fork `shubhamkhedkar/MultiCloud-DevOps-AI-Challenge` synced with upstream
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-045: Push code from local to GitHub — complete developer workflow branch PR review merge
