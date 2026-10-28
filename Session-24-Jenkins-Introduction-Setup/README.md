@@ -44,6 +44,15 @@
 - ☑️ CI basics revised: automatic build/test/deploy on each commit, Jenkins controller vs agents
 - ☑️ Fork synced with upstream
 
+## 🧰 Pre-Session Prerequisites (Linux Revision + Reverse KT, 29 Oct 2026)
+
+- ☑️ Prepared 2–3 Linux commands/concepts to present in the Reverse KT
+- ☑️ Revised Linux sessions 06–09 (files, users, permissions, packages, processes, systemctl, ss)
+- ☑️ Installed Jenkins on an Ubuntu 24.04 cloud VM (30 GB disk, Java 21) and explored the dashboard
+- ☑️ Allowed TCP 8080 only to my own IP; stopped/deleted the VM after use
+- ☑️ Committed today's notes to GitHub
+- ☑️ Synced fork with upstream
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-047: Run Java code via VS Code — understand the complete compile and build process
