@@ -35,6 +35,15 @@
 
 ---
 
+## 🧰 Pre-Session Prerequisites (completed 28 Oct 2026)
+
+- ☑️ JDK 21 (full JDK, not JRE) installed and verified with `java -version`
+- ☑️ VS Code set up to run Java (Java extension pack)
+- ☑️ Ubuntu 22.04 machine ready for Jenkins install (e.g. EC2 in ap-south-1 with key pair, port 8080 open; stop after class)
+- ☑️ Git push workflow redone (init, add, commit, push) with repo created without README
+- ☑️ CI basics revised: automatic build/test/deploy on each commit, Jenkins controller vs agents
+- ☑️ Fork synced with upstream
+
 ## ✅ Daily Tasks — Complete BOTH Before the Next Session
 
 ### 🔨 Task-047: Run Java code via VS Code — understand the complete compile and build process
